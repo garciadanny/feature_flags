@@ -1,0 +1,7 @@
+new_auth: true
+old_auth: false
+new_symptom_checker: false
+my_itriage: false
+itriage_connect: true
+new_signup_form: true
+healthnews: false
